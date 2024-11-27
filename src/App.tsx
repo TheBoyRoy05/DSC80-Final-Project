@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div className="text-3xl">
-      App
+      Power Outage Analysis
     </div>
   )
 }
